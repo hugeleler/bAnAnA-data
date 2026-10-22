@@ -11,7 +11,7 @@ frost/themes/windows/*.bskin
 
 Mac 和 Windows 的皮肤文件名相同，所以按平台分子目录。
 
-语言模型不在 git 目录里。git 单文件上限 100MB，`banana-lts-zh-hans.gram` 是 398MB。两个 gram 挂在本库 Release `content` 的附件上。
+语言模型不在 git 目录里。git 单文件上限 100MB，`banana-lts-zh-hans.gram` 是 398MB。两个 gram 挂在本库 Release `language-model` 的附件上。
 
 方案版本是 `catalog.json` 里的 `version`。换皮肤或换 gram 时改这个版本并替换文件，不要改小香蕉的软件版本号。
 
