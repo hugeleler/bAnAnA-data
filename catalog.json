@@ -184,7 +184,7 @@
       "kind": "theme",
       "platform": "android",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155991,
       "name": "flypy.bskin"
     },
@@ -193,7 +193,7 @@
       "kind": "theme",
       "platform": "ios",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155991,
       "name": "flypy.bskin"
     },
@@ -202,7 +202,7 @@
       "kind": "theme",
       "platform": "mac",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155991,
       "name": "flypy.bskin"
     },
@@ -211,7 +211,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155991,
       "name": "flypy.bskin"
     },
@@ -292,7 +292,7 @@
       "kind": "theme",
       "platform": "android",
       "id": "luna",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 159861,
       "name": "luna.bskin"
     },
@@ -301,7 +301,7 @@
       "kind": "theme",
       "platform": "ios",
       "id": "luna",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 159861,
       "name": "luna.bskin"
     },
@@ -310,7 +310,7 @@
       "kind": "theme",
       "platform": "mac",
       "id": "luna",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 159861,
       "name": "luna.bskin"
     },
@@ -319,7 +319,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "luna",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 159861,
       "name": "luna.bskin"
     },
@@ -382,7 +382,7 @@
       "kind": "theme",
       "platform": "android",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -391,7 +391,7 @@
       "kind": "theme",
       "platform": "ios",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -400,7 +400,7 @@
       "kind": "theme",
       "platform": "mac",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -409,7 +409,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -580,7 +580,7 @@
       "kind": "theme",
       "platform": "android",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155990,
       "name": "flypy.bskin"
     },
@@ -589,7 +589,7 @@
       "kind": "theme",
       "platform": "ios",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155990,
       "name": "flypy.bskin"
     },
@@ -598,7 +598,7 @@
       "kind": "theme",
       "platform": "mac",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155990,
       "name": "flypy.bskin"
     },
@@ -607,7 +607,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "flypy",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 155990,
       "name": "flypy.bskin"
     },
@@ -688,8 +688,8 @@
       "kind": "theme",
       "platform": "android",
       "id": "luna",
-      "version": "1.0.0.2",
-      "bytes": 159862,
+      "version": "3.0.0.0",
+      "bytes": 159861,
       "name": "luna.bskin"
     },
     {
@@ -697,8 +697,8 @@
       "kind": "theme",
       "platform": "ios",
       "id": "luna",
-      "version": "1.0.0.2",
-      "bytes": 159862,
+      "version": "3.0.0.0",
+      "bytes": 159861,
       "name": "luna.bskin"
     },
     {
@@ -706,8 +706,8 @@
       "kind": "theme",
       "platform": "mac",
       "id": "luna",
-      "version": "1.0.0.2",
-      "bytes": 159862,
+      "version": "3.0.0.0",
+      "bytes": 159861,
       "name": "luna.bskin"
     },
     {
@@ -715,8 +715,8 @@
       "kind": "theme",
       "platform": "windows",
       "id": "luna",
-      "version": "1.0.0.2",
-      "bytes": 159862,
+      "version": "3.0.0.0",
+      "bytes": 159861,
       "name": "luna.bskin"
     },
     {
@@ -778,7 +778,7 @@
       "kind": "theme",
       "platform": "android",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -787,7 +787,7 @@
       "kind": "theme",
       "platform": "ios",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -796,7 +796,7 @@
       "kind": "theme",
       "platform": "mac",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     },
@@ -805,7 +805,7 @@
       "kind": "theme",
       "platform": "windows",
       "id": "wechat",
-      "version": "1.0.0.2",
+      "version": "3.0.0.0",
       "bytes": 171020,
       "name": "wechat.bskin"
     }
