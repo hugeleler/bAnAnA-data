@@ -19,6 +19,22 @@
     },
     {
       "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-sample-zh-moqi",
+      "version": "1.0.0.0",
+      "bytes": 7339052,
+      "name": "banana-sample-zh-moqi.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "frost-sample-zh-moqi",
+      "version": "1.0.0.0",
+      "bytes": 7339052,
+      "name": "frost-sample-zh-moqi.gram"
+    },
+    {
+      "package": "banana",
       "kind": "theme",
       "platform": "android",
       "id": "android",
