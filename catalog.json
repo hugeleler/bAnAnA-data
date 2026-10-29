@@ -20,30 +20,6 @@
     {
       "package": "banana",
       "kind": "gram-choice",
-      "language": "banana-sample-zh-moqi",
-      "version": "1.0.0.0",
-      "bytes": 7339052,
-      "name": "banana-sample-zh-moqi.gram"
-    },
-    {
-      "package": "frost",
-      "kind": "gram-choice",
-      "language": "frost-sample-zh-moqi",
-      "version": "1.0.0.0",
-      "bytes": 7339052,
-      "name": "frost-sample-zh-moqi.gram"
-    },
-    {
-      "package": "banana",
-      "kind": "gram-choice",
-      "language": "banana-daily-zh-hans",
-      "version": "1.0.0.0",
-      "bytes": 21601324,
-      "name": "banana-daily-zh-hans.gram"
-    },
-    {
-      "package": "frost",
-      "kind": "gram-choice",
       "language": "banana-daily-zh-hans",
       "version": "1.0.0.0",
       "bytes": 21601324,
@@ -60,10 +36,18 @@
     {
       "package": "frost",
       "kind": "gram-choice",
-      "language": "banana-prose-zh-hans",
+      "language": "frost-daily-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 21601324,
+      "name": "frost-daily-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "frost-prose-zh-hans",
       "version": "1.0.0.0",
       "bytes": 14518316,
-      "name": "banana-prose-zh-hans.gram"
+      "name": "frost-prose-zh-hans.gram"
     },
     {
       "package": "banana",
