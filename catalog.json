@@ -35,6 +35,38 @@
     },
     {
       "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-daily-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 21601324,
+      "name": "banana-daily-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "banana-daily-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 21601324,
+      "name": "banana-daily-zh-hans.gram"
+    },
+    {
+      "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-prose-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 14518316,
+      "name": "banana-prose-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "banana-prose-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 14518316,
+      "name": "banana-prose-zh-hans.gram"
+    },
+    {
+      "package": "banana",
       "kind": "theme",
       "platform": "android",
       "id": "android",
