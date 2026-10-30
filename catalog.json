@@ -51,6 +51,54 @@
     },
     {
       "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-news-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 20348972,
+      "name": "banana-news-zh-hans.gram"
+    },
+    {
+      "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-wiki3-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 20453420,
+      "name": "banana-wiki3-zh-hans.gram"
+    },
+    {
+      "package": "banana",
+      "kind": "gram-choice",
+      "language": "banana-gov-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 2732076,
+      "name": "banana-gov-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "frost-news-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 20348972,
+      "name": "frost-news-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "frost-wiki3-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 20453420,
+      "name": "frost-wiki3-zh-hans.gram"
+    },
+    {
+      "package": "frost",
+      "kind": "gram-choice",
+      "language": "frost-gov-zh-hans",
+      "version": "1.0.0.0",
+      "bytes": 2732076,
+      "name": "frost-gov-zh-hans.gram"
+    },
+    {
+      "package": "banana",
       "kind": "theme",
       "platform": "android",
       "id": "android",
